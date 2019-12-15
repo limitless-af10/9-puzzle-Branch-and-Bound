@@ -1,0 +1,11 @@
+The folder contains a cpp file named "Discrete Math Puzzle" and a folder named "worst case steps computed".
+
+Running the code:
+The cpp file contains the code for the assignment and after compiling the code, the user must input the inital state of the 
+puzzle. Note that 0 must be input for empty space in the puzzle. After taking the input the code does BFS and outputs the steps
+to solve the puzzle.
+
+Worst case folder:
+The worst case folder contains the output for the worst case initial position of the puzzle which was given in the question statement.
+There are four screenshots and the output is ordered starting from 1 and ending at 4. The reason for including this output was that it
+took exactly 181439 states to be computed to get the output, which was done in a lot of time.
